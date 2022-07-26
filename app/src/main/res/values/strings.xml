@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="home">home</string>
+    <string name="textview">TextView</string>
+    <string name="i_am_home">I am home</string>
+    <string name="me_home">Me Home</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kjlf">kjlf</string>
+
+    <string name="_0">0</string>
+    <string name="post">Post</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+
+
+    <string name="notification">Notification</string>
+    <string name="change_profile_photo">Change profile photo</string>
+    <string name="full_name">Full name</string>
+    <string name="username">Username</string>
+    <string name="website">Website</string>
+    <string name="bio">Bio</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="email">Email..</string>
+
+    <string name="login">Login</string>
+    <string name="create_new_account_sign_up">Create new account?Sign up</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="register">Register</string>
+    <string name="password">Password...</string>
+    <string name="user_name">User name</string>
+    <string name="user_profile_name">User profile name</string>
+    <string name="title_activity_search">searchActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="emailhere">emailhere</string>
+    <string name="follow">Follow</string>
+
+    <string name="say_something_about_your_post">Say something about your post..</string>
+
+</resources>
